@@ -8,7 +8,7 @@ My passion for programming, especially in backend development, grew during colle
 
 ## 🚀 Projects
 
-### Library Management System (ASP.NET Web API)
+### Library Management System
 
 - **Objective**: Develop a robust library management system with authentication and role-based access.
 - **Tools Used**: ASP.NET Web API, Entity Framework Core, SQL Server, JWT.
@@ -19,7 +19,7 @@ My passion for programming, especially in backend development, grew during colle
   - Demonstrates skills in backend development, RESTful APIs, and database management.
 - **GitHub**: [View Project](https://github.com/mstf74/library-system-project-API)
 
-### Full-Stack Social Media Website (PHP)
+### Full-Stack Social Media Website
 
 - **Objective**: Create a social media platform with a focus on backend development.
 - **Tools Used**: PHP (custom framework), MySQL.
@@ -29,15 +29,14 @@ My passion for programming, especially in backend development, grew during colle
   - Gained experience in backend logic, database handling, and team collaboration on large-scale projects.
 - **GitHub**: [View Project](https://github.com/mstf74/discoverify)
 
-### Task Management Console Application (Java)
+### Asynchronous Multi-Timer Application
 
-- **Objective**: Build a console-based system to manage tasks within a company.
-- **Tools Used**: Java, OOP principles, file-based storage.
+- **Objective**: Develop a desktop application to manage multiple asynchronous timers.
+- **Tools Used**: WinForms, multithreading.
 - **Summary**:
-  -  Developed the task distribution module as part of a 6-member team.
-  - Applied OOP principles to design a robust structure for handling task allocation and status tracking.
-  - Managed file-based storage to simulate a database for storing task information.
-- **GitHub**: [View Project](https://github.com/mstf74/taskManagement)
+  - Built a multi-threaded timer application using C# and WinForms, enabling users to create and manage multiple timers running concurrently.
+  - Designed an intuitive GUI for seamless timer management, featuring real-time updates and reminder messages.
+- **GitHub**: [View Project](https://github.com/mstf74/parallel-multi-timer-)
 
 ## 🛠 Skills
 
@@ -57,7 +56,7 @@ My passion for programming, especially in backend development, grew during colle
 
 Feel free to connect with me via the following links:
 - [GitHub](https://github.com/mstf74)
-- [LinkedIn](www.linkedin.com/in/mostafa-abdou1)
+- [LinkedIn](https://www.linkedin.com/in/mostafa-abdou1/)
 ---
 
 Thank you for visiting my portfolio! Feel free to reach out with any questions or opportunities.
