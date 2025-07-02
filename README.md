@@ -19,7 +19,7 @@ My passion for programming, especially in backend development, grew during colle
   - Implemented business rules such as seat limits and 24-hour application cooldowns.
 - **GitHub**: [View Project](https://github.com/mstf74/Vacancy-system)
 
-### Library Management System
+### Library Management System – ASP.NET Core Web API
 
 - **Objective**: Develop a robust library management system with authentication and role-based access.
 - **Tools Used**: ASP.NET Web API, Entity Framework Core, SQL Server, JWT.
