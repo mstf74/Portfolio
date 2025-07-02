@@ -8,6 +8,17 @@ My passion for programming, especially in backend development, grew during colle
 
 ## 🚀 Projects
 
+### Vacancy Management System – ASP.NET Core Web API
+
+- **Objective**: Build a layered, scalable backend system for managing job vacancies and Applications.
+- **Tools Used**: ASP.NET Core, EF Core, FluentValidation, Quartz.NET, Identity, JWT.
+- **Summary**:
+  - Designed and developed a structured backend using the Repository Interface Pattern.
+  - Integrated JWT authentication and ASP.NET Core Identity for secure user access.
+  - Automated vacancy expiration scheduling using Quartz.NET.
+  - Implemented business rules such as seat limits and 24-hour application cooldowns.
+- **GitHub**: [View Project](https://github.com/mstf74/Vacancy-system)
+
 ### Library Management System
 
 - **Objective**: Develop a robust library management system with authentication and role-based access.
@@ -18,16 +29,6 @@ My passion for programming, especially in backend development, grew during colle
   - Utilized a layered architecture to separate concerns across the project for maintainability.
   - Demonstrates skills in backend development, RESTful APIs, and database management.
 - **GitHub**: [View Project](https://github.com/mstf74/library-system-project-API)
-
-### Full-Stack Social Media Website
-
-- **Objective**: Create a social media platform with a focus on backend development.
-- **Tools Used**: PHP (custom framework), MySQL.
-- **Summary**:
-  - Collaborated with a 6-member team to develop key features for a social media platform.
-  - Focused on design, implementation, and management of the posts section.
-  - Gained experience in backend logic, database handling, and team collaboration on large-scale projects.
-- **GitHub**: [View Project](https://github.com/mstf74/discoverify)
 
 ### Asynchronous Multi-Timer Application
 
@@ -47,10 +48,11 @@ My passion for programming, especially in backend development, grew during colle
 
 ## 🎓 Certifications & Education
 
+- **159 Hourse.NET backend web development course** (Digital Egypt Pioneers Initiative DEPI)
+  -  Learned ASP.NET Back-end track Using Web MVC & Web API.
+  -   Created a Library System Website as graduation project.
 - **Competitive programming level 1** (CoAcademy)
   - Completed coursework on Competitve Programming techniques.
-- **159 Hourse.NET backend web development course** (Digital Egypt Pioneers Initiative DEPI)
-  - Gained expertise in machine learning models and algorithms.
 
 ## 📫 Contact
 
