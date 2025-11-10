@@ -8,16 +8,16 @@ My passion for programming, especially in backend development, grew during colle
 
 ## 🚀 Projects
 
-### Vacancy Management System – ASP.NET Core Web API
+### Wasfa – Clean Architecture ASP.NET Core Web API
 
-- **Objective**: Build a layered, scalable backend system for managing job vacancies and Applications.
-- **Tools Used**: ASP.NET Core, EF Core, FluentValidation, Quartz.NET, Identity, JWT.
+- **Objective**: DDevelop a scalable recipe recommendation system based on available ingredients using Clean Architecture principles.
+- **Tools Used**: ASP.NET Core Web API, Entity Framework Core, Stripe, FluentValidation, AutoMapper, FluentEmail, JWT, ASP.NET Identity..
 - **Summary**:
-  - Designed and developed a structured backend using the Repository Interface Pattern.
-  - Integrated JWT authentication and ASP.NET Core Identity for secure user access.
-  - Automated vacancy expiration scheduling using Quartz.NET.
-  - Implemented business rules such as seat limits and 24-hour application cooldowns.
-- **GitHub**: [View Project](https://github.com/mstf74/Vacancy-system)
+  - Implemented JWT authentication with secure refresh tokens and role-based authorization.
+  - ntegrated Stripe payments with webhook handling for reliability and security.
+  - Applied Clean Architecture with clear separation between Domain, Application, Infrastructure, and API layers.
+  - Utilized FluentValidation, AutoMapper, and FluentEmail for validation, mapping, and email workflows.
+- **GitHub**: [View Project](https://github.com/mstf74/Wasfa)
 
 ### Library Management System – ASP.NET Core Web API
 
@@ -30,14 +30,16 @@ My passion for programming, especially in backend development, grew during colle
   - Demonstrates skills in backend development, RESTful APIs, and database management.
 - **GitHub**: [View Project](https://github.com/mstf74/library-system-project-API)
 
-### Asynchronous Multi-Timer Application
+### Vacancy Management System – ASP.NET Core Web API
 
-- **Objective**: Develop a desktop application to manage multiple asynchronous timers.
-- **Tools Used**: WinForms, multithreading.
+- **Objective**: Build a layered, scalable backend system for managing job vacancies and Applications.
+- **Tools Used**: ASP.NET Core, EF Core, FluentValidation, Quartz.NET, Identity, JWT.
 - **Summary**:
-  - Built a multi-threaded timer application using C# and WinForms, enabling users to create and manage multiple timers running concurrently.
-  - Designed an intuitive GUI for seamless timer management, featuring real-time updates and reminder messages.
-- **GitHub**: [View Project](https://github.com/mstf74/parallel-multi-timer-)
+  - Designed and developed a structured backend using the Repository Interface Pattern.
+  - Integrated JWT authentication and ASP.NET Core Identity for secure user access.
+  - Automated vacancy expiration scheduling using Quartz.NET.
+  - Implemented business rules such as seat limits and 24-hour application cooldowns.
+- **GitHub**: [View Project](https://github.com/mstf74/Vacancy-system)
 
 ## 🛠 Skills
 
