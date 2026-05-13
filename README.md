@@ -4,7 +4,7 @@
 
 Welcome to my portfolio! I’m Mostafa Abdou Saleh, a passionate software engineer with a strong focus on backend development. From a young age, I’ve been fascinated by computers and electronics, driven by my love for gaming and curiosity about how things work behind the scenes.
 
-My passion for programming, especially in backend development, grew during college. I gravitated toward ASP.NET and backend frameworks because I enjoy working on the foundation of systems, ensuring everything operates smoothly and efficiently. Whether in software or life, I aim to build solid, reliable solutions. With my skills and mindset, I’m confident in delivering high-performing solutions you can trust.
+My passion for programming, especially in backend development, grew during college. I gravitated toward ASP.NET, Spring boot and backend frameworks because I enjoy working on the foundation of systems, ensuring everything operates smoothly and efficiently. Whether in software or life, I aim to build solid, reliable solutions. With my skills and mindset, I’m confident in delivering high-performing solutions you can trust.
 
 ## 🚀 Projects
 
@@ -19,16 +19,15 @@ My passion for programming, especially in backend development, grew during colle
   - Utilized FluentValidation, AutoMapper, and FluentEmail for validation, mapping, and email workflows.
 - **GitHub**: [View Project](https://github.com/mstf74/Wasfa)
 
-### Library Management System – ASP.NET Core Web API
+  ### Pharma AI Platform Graduation Project - Java Spring Boot
 
-- **Objective**: Develop a robust library management system with authentication and role-based access.
-- **Tools Used**: ASP.NET Web API, Entity Framework Core, SQL Server, JWT.
+- **Objective**: To improve medicine accessibility by enabling prescription-based search and nearest pharmacy matching with real-time availability.
+- **Tools Used**: Spring Boot, Spring Data JPA, Spring Security, REST APIs, and mapping/distance calculation services.
 - **Summary**:
-  - Implemented user authentication and token-based authorization using JWT.
-  - Developed features like book borrowing and role-based access management (admin and user roles).
-  - Utilized a layered architecture to separate concerns across the project for maintainability.
-  - Demonstrates skills in backend development, RESTful APIs, and database management.
-- **GitHub**: [View Project](https://github.com/mstf74/library-system-project-API)
+  - Spring Boot-based system for pharmacy inventory and medicine availability in Egypt.
+  - built using using Spring Data JPA, Spring Security, and REST APIs.
+  - Integrates real-time road distance calculation via mapping services and an AI-powered prescription reader.
+- **GitHub**: [View Project](https://github.com/Mostafa-araheim/graduation-project/)
 
 ### Vacancy Management System – ASP.NET Core Web API
 
@@ -41,18 +40,27 @@ My passion for programming, especially in backend development, grew during colle
   - Implemented business rules such as seat limits and 24-hour application cooldowns.
 - **GitHub**: [View Project](https://github.com/mstf74/Vacancy-system)
 
+### Library Management System – ASP.NET Core Web API
+
+- **Objective**: Develop a robust library management system with authentication and role-based access.
+- **Tools Used**: ASP.NET Web API, Entity Framework Core, SQL Server, JWT.
+- **Summary**:
+  - Implemented user authentication and token-based authorization using JWT.
+  - Developed features like book borrowing and role-based access management (admin and user roles).
+  - Utilized a layered architecture to separate concerns across the project for maintainability.
+  - Demonstrates skills in backend development, RESTful APIs, and database management.
+- **GitHub**: [View Project](https://github.com/mstf74/library-system-project-API)
 ## 🛠 Skills
 
-- **Programming Languages**:  C, C++, C#, Java, Python, PHP, SQL.
-- **Frameworks & Tools**: ASP.NET Web API, ASP.NET MVC, Entity Framework Core, SQL Server, Oracle Database Server.
-- **Techniques**: OOP, RESTful APIs, Authentication & Authorization(JWT).
-- **Soft Skills**: Collaborative, Detail-oriented, Hard-working.
+- **Programming Languages**:  C, C++, C#, Java, Python, PHP, SQL, JavaScript.
+- **Frameworks & Tools**: Data Structures, Algorithms, Object-Oriented Programming (OOP), Operating Systems, REST APIs, Version Control, Agile, Unit Testing,     SOLID Principles, JWT, Design Patterns, WebSocket, Web Services, Entity Framework Core, Spring Data JPA, Fluent Validation, Git, GitHub, Multithreading, Payment Integration (PayPal, Stripe), MSSQL, MySQL, Oracle, PostgreSQL.
+- **Soft Skills**: Problem Solving, Teamwork, Communication, Adaptability, Fast Learning, Time Management.
 
 ## 🎓 Certifications & Education
 
 - **159 Hourse.NET backend web development course** (Digital Egypt Pioneers Initiative DEPI)
-  -  Learned ASP.NET Back-end track Using Web MVC & Web API.
-  -   Created a Library System Website as graduation project.
+  - Completed ASP.NET Backend track focusing on Web MVC and Web API development..
+  - Developed a Library Management System as a graduation project
 - **Competitive programming level 1** (CoAcademy)
   - Completed coursework on Competitve Programming techniques.
 
